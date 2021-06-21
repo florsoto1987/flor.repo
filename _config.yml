@@ -9,28 +9,24 @@
 title: Home
 
 # Your name to show in the footer
-author: Romina Soto
+author: Florencia Soto
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   My CV: "cv"
-  Resources:
-    - Using Markdown: "using-markdown"
-    - Useful Tools: "useful-tools"
-  Git HowTo:
-    - Create a GitHub Repository: "create-git-repo"
-    - Import a GitHub Repository: "import-repo"
-    - Fork a GitHub Repository: "fork-repo"
-    - Clone a Repository: "clone-repo"
-    - Git Cheat Sheet: "git-cheat-sheet"
-  My LinkedIn: "https://www.linkedin.com/in/romina-soto-098b4139/"
+  Markdown:
+    - Sample Makrdown Page: "samplepage-markdown"
+  Confluence:
+    - Sample Confluence Page: "https://www.atlassian.com/es/software/confluence"
+  PDF:
+    - SAMPLE PDF: "sample-pdf"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/florencialogo.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -104,16 +100,16 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-img: "/assets/img/bgimage.jpg"
-navbar-text-col: "#252525"
-navbar-border-col: "#DDDDDD"
-page-col: "#e1f9ee"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#014857"
-footer-img: "/assets/img/bgimage.jpg"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+navbar-col: "#320000"
+navbar-text-col: "#fac9c9"
+navbar-border-col: "#fac9c9"
+page-col: "#f7ebeb"
+text-col: "#2e2222"
+link-col: "#a76464"
+hover-col: "#834040"
+footer-col: "#320000"
+footer-text-col: "#fac9c9"
+footer-link-col: "#fac9c9"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
