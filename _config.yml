@@ -14,7 +14,7 @@ author: Florencia Soto
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  My CV: "cv"
+  My resume: "cv"
   Markdown:
     - Sample Makrdown Page: "samplepage-markdown"
   Confluence:
@@ -41,9 +41,9 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "rominasoto.psi@gmail.com"
-  github: "rominasoto-tw"
-  linkedin: "romina-soto-098b4139"
+  email: "mariaflorenciasoto@gmail.com"
+  github: "florsoto1987"
+  linkedin: "maría-florencia-soto-537a66212"
 # facebook: deanattali
 # twitter: daattali
 # patreon: DeanAttali
